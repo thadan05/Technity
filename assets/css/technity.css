@@ -57,3 +57,7 @@ box-shadow: inset 3px -4px 0px 7px #1c21288f, -5px -5px 10px #404b5a80;
 border-radius: 5px;
 box-shadow: inset 3px -4px 0px 7px #1c21288f, -5px -5px 10px #404b5a80;
 }
+.featured .nav-link.active h4 {color:white;}
+.featured .nav-link.active h3 {
+    color: white;
+}

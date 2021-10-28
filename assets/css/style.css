@@ -590,14 +590,14 @@ section {
 
 .featured .nav-link {
   border: 0;
-  padding: 20px;
-  color: #151515;
+ padding: 20px;
+  color: #9ea2a7;
   transition: 0.3s;
 }
 
 .featured .nav-link h4 {
   font-size: 18px;
-  font-weight: 600;
+
   transition: 0.3s;
 }
 
@@ -619,15 +619,24 @@ background: linear-gradient(
 145deg
 , #29313b, rgb(49 58 70));
     box-shadow: -5px -5px 10px #1c2128;
-    padding: 20px 20px 40px 20px;
+    padding: 10px 10px 10px 10px;
 }
 
-.featured .nav-link.active h4 {
- background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
-  
-  -webkit-background-clip:text;
-  -webkit-text-fill-color: transparent;
+
+
+.services .icon-box p {
+  font-size: 18px;
+  color: #959595;
+  margin-left: 60px;
 }
+
+
+.featured .nav-link.active h4 {
+font-family: "Myanmar-lan";
+font-weight:normal;
+line-height: 1.5;
+}
+
 .featured .tab-pane.active {
   -webkit-animation: slide-down 0.5s ease-out;
   animation: slide-down 0.5s ease-out;
@@ -897,7 +906,7 @@ background: linear-gradient(
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #7cc576;
+  background-image: linear-gradient(90deg, #2af598 0%, #009efd 100%);
   color: #fff;
 }
 
