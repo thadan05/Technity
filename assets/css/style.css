@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('http://fonts.cdnfonts.com/css/midnight-champion');
+
 body {
   
   font-family: "DINPro-Regular", sans-serif;
@@ -475,7 +477,7 @@ section {
   margin-bottom: 5px;
   padding-bottom: 0;
   color: #ffffff;
-  font-family: "Midnight Champion";
+  font-family: 'Midnight Champion';
 
 }
 
