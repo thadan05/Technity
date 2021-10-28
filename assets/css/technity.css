@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Midnight Champion";
+    src: url("../font/Midnight champion.otf");
+
+}@font-face {
+    font-family: "DINPro-Regular";
+    src: url("../font/DINPro-Regular.ttf");
+}@font-face {
+    font-family: "Myanmar-Lan";
+    src: url("../font/Myanmar-Lan.ttf");
+}
+
+
+
+body {font-family: "DINPro-Regular";background-color: #04040487;color: #fff;position: relative;background: transparent;}
+
+.section-title i{
+    text-shadow: 5px 5px 4px #22272e, -5px -2px 10px #363a3f;
+
+}
+section {
+    background: linear-gradient(145deg, #29313b, rgb(49 58 70));
+    box-shadow:  -5px -5px 10px #1c2128;
+    padding: 20px 20px 40px 20px;
+    overflow: hidden;
+}
+
+.section-title h2 {
+    font-size: 36px;
+    margin-top:15px;
+    margin-bottom:-5px;
+}
+.featured-title h2 {
+    font-size: 36px;
+    margin-top:15px;
+    margin-bottom:-5px;
+   
+    text-align:center;
+    font-family:'Midnight Champion';
+}
+
+
+.about .image {
+
+border-radius: 5px;
+box-shadow: inset 3px -4px 0px 7px #1c21288f, -5px -5px 10px #404b5a80;
+}
+
+
+.about .content i {
+  font-size: 20px;
+ background-image: linear-gradient(90deg, #2af598 0%, #009efd 100%);
+-webkit-background-clip: text; 
+ -webkit-text-fill-color: transparent;
+}
+
+
+.services .image {
+
+border-radius: 5px;
+box-shadow: inset 3px -4px 0px 7px #1c21288f, -5px -5px 10px #404b5a80;
+}
