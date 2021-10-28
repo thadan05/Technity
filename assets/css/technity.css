@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Midnight Champion";
-    src: url("../font/Midnight champion.otf");
+    font-family: "Midnight-Champion";
+    src: url("../font/Midnight-Champion.otf");
 
 }@font-face {
     font-family: "DINPro-Regular";
@@ -36,7 +36,7 @@ section {
     margin-bottom:-5px;
    
     text-align:center;
-    font-family:'Midnight Champion';
+    font-family:'Midnight-Champion';
 }
 
 
