@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Midnight Champion";
+    font-family: 'Midnight Champion';
     src: url("../font/Midnight Champion.ttf");
 
 }@font-face {
@@ -35,7 +35,7 @@ section {
     margin-top:15px;
     margin-bottom:-5px;
        text-align:center;
-    font-family:"Midnight-Champion";
+    font-family:"Midnight Champion";
 }
 
 
